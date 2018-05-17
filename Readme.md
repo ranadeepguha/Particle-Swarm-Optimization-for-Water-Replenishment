@@ -53,7 +53,7 @@ The below picture represents the pBest calculations with time::
 
 
 
-                                                        How to run the project?
+**How to run the project?**
 
 1. Clone the repository
 2. Open the code in Netbeans or any other editor
@@ -61,7 +61,9 @@ The below picture represents the pBest calculations with time::
 
 
 
-                                                How to display the p-best or g-best graphs?
+
+
+**How to display the p-best or g-best graphs?**
 
 1. Open the code in Netbeans or any other editor
 2. Right click on pBestChart.java or gBestChart.java
