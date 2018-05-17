@@ -39,7 +39,7 @@ where
 -   w=0.784321;
 -   c1=1.49618;
 -   c2=1.49618;
--   ![picture alt](https://s3.amazonaws.com/ranadeep.space/images/PSOsymbol.jpg"symbol")
+-   ![picture alt](https://s3.amazonaws.com/ranadeep.space/images/PSOsymbol.jpg "symbol")
   = Random numbers
 
 
@@ -48,7 +48,7 @@ where
 The below picture represents the pBest calculations with time::
 
 
-![picture alt](https://s3.amazonaws.com/ranadeep.space/images/PSOsymbol.jpg"symbol")
+![picture alt](https://s3.amazonaws.com/ranadeep.space/images/PSOsymbol.jpg "symbol")
 
 
 
