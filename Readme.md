@@ -48,7 +48,7 @@ where
 The below picture represents the pBest calculations with time::
 
 
-![picture alt](https://s3.amazonaws.com/ranadeep.space/images/PSOsymbol.jpg "symbol")
+![picture alt](https://s3.amazonaws.com/ranadeep.space/images/pbest.jpg "symbol")
 
 
 
