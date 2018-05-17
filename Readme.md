@@ -33,7 +33,7 @@ The algorithm not only returns the best possible solution from one neighboring c
 
 
 
-![picture alt](https://s3.amazonaws.com/ranadeep.space/images/UseCase-WaterManagement.png "Use Case Diagram")
+![picture alt](https://s3.amazonaws.com/ranadeep.space/images/PSO+Formula.jpg "PSO Formula")
 
 where 
 -   w=0.784321;
